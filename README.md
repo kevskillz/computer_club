@@ -1,1 +1,1 @@
-# computer_club_website
+# Website for computer club
