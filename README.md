@@ -1,1 +1,1 @@
-# Website for computer club
+# Computer Club Resources
